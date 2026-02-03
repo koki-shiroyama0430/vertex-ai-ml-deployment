@@ -1,5 +1,5 @@
-Vertex AI ML Deployment: End-to-End MNIST Classification
-This repository demonstrates a complete Machine Learning workflow—from mathematical foundations and model architecture design to training and cloud-ready deployment. The project focuses on classifying handwritten digits using the MNIST dataset and is optimized for deployment on Google Cloud Vertex AI.
+# Vertex AI ML Deployment: End-to-End MNIST Classification
+### This repository demonstrates a complete Machine Learning workflow—from mathematical foundations and model architecture design to training and cloud-ready deployment. The project focuses on classifying handwritten digits using the MNIST dataset and is optimized for deployment on Google Cloud Vertex AI.
 
 🚀 Project Highlights
 Full Pipeline: Implements the entire ML lifecycle: Data preprocessing → Model Design → Training → Evaluation → Model Export.
@@ -48,8 +48,8 @@ Import the model into Vertex AI Model Registry.
 Deploy to a Vertex AI Endpoint to serve real-time predictions via API.
 
 📝 Author
-[Your Name]
+[koki-shiroyama0430]
 
-GitHub: [Your GitHub Profile Link]
+GitHub: [https://github.com/koki-shiroyama0430]
 
-LinkedIn: [Your LinkedIn Profile Link]
+LinkedIn: [www.linkedin.com/in/koki-shiroyama-067a87245]
