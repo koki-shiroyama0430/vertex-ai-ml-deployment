@@ -36,7 +36,7 @@ The model achieves high accuracy by utilizing a deep neural network with optimiz
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 * **Language**: Python 3
 
 * **Framework**: TensorFlow / Keras
