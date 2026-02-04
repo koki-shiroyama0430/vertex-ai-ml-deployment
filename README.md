@@ -58,6 +58,13 @@ This model is specifically prepared for the following GCP workflow:
 
 3. Deploy to a Vertex AI Endpoint to serve real-time predictions via API.
 
+
+地域 (Location): us-central1
+
+マシンタイプ: n1-standard-2
+
+モデル名: mnist-classifier-v1
+
 ---
 
 
