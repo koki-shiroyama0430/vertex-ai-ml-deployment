@@ -80,16 +80,16 @@ The endpoint was tested with a dummy black-frame instance (784-dimensional vecto
 
 The endpoint was tested with a dummy black-frame instance...
 
-#### Inference Log
-![Inference Log](./images/inference_log.png)
-
 #### Vertex AI Endpoint Status
 ![Endpoint Status](./images/endpoint_status.png)
+
+#### Inference Log
+![Inference Log](./images/inference_log.png)
 
 #### Colab Log
 ![Colab Log](./images/colab_log.png)
 
-
+---
 
 > [!NOTE]
 > All cloud resources (Endpoints and Models) were successfully decommissioned after testing to ensure cost-efficiency and resource cleanup.
